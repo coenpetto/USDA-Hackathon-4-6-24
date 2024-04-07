@@ -1,2 +1,2 @@
-![Conf Matrix](Conf-Matrix.png)
-![umap](UMAP.png)
+![Conf Matrix](images/Conf-Matrix.png)
+![umap](images/UMAP.png)
