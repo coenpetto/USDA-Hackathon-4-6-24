@@ -1,0 +1,5 @@
+venv/
+.DS_Store
+logs/
+Path1/
+venv.txt
