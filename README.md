@@ -4,7 +4,7 @@
 
 ![umap](images/UMAP.png)
 
-![umap](images/HeatMap_and_smote1.png)
+![umap](images/HeatMap_and_Smote1.png)
 
 ![umap](images/HeatMap_and_smote2.png)
 
