@@ -1,4 +1,4 @@
-# Please review the present.html to see the formatted notebook!
+# Please review the present.pdf or present.html to see the formatted notebook!
 # [Download the model here](https://drive.google.com/file/d/1suQxD6kJ8wviCNpbCZZRWIENzsGF6him/view?usp=sharing)
 
 ![Conf Matrix](images/Conf-Matrix.png)
